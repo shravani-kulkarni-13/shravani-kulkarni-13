@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsbrb&psig=AOvVaw0_naXvKwV6vrM-onq-eCK6&ust=1720204906872000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjRlJmFjocDFQAAAAAdAAAAABAE)
+![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Shravani Kulkarni</h1>
 <h3 align="center">A frontend developer from india</h3>
 <img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/previews/012/744/791/non_2x/cute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg">
