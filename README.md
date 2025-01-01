@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravani-kulkarni-13&label=Profile%20views&color=0e75b6&style=flat" alt="shravani-kulkarni-13" /> </p>
 
-- 🌱 I’m currently learning **React JS**
-
 - 📫 How to reach me **shravnik139@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
